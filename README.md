@@ -1,19 +1,13 @@
-The Dynamic Event Calendar App is an interactive and visually appealing calendar application designed to help users organize and manage events. With a modern and user-friendly interface, this app allows users to easily navigate through dates, create events, and view detailed event information with ease. The app is built using React.js and includes a variety of features for a seamless experience.
+The Dynamic Event Calendar App is a sleek and interactive calendar tool built with React.js, designed to help users easily organize and manage events.
 
-Features:
-Responsive Design: The app is designed to work across various screen sizes, from desktop to mobile devices. It adapts to different screen resolutions with ease.
-
-Interactive Calendar Grid: Users can click on any date to add, view, or edit events. Dates are displayed in a well-organized grid format, with each day box clickable and responsive to user actions.
-
-Today’s Date Highlighted: The current date is prominently highlighted for easy reference, helping users quickly identify today's events.
-
-Event Modal: Users can create, edit, and view events through a modal interface that appears when a date is clicked. The modal allows users to input event details such as title, description, time, and more.
-
-Event Controls: The app provides easy-to-use controls to navigate between months and view events for any selected day.
-
-Event Notifications: The app can notify users about upcoming events, ensuring they don’t miss anything important.
-
-Modern Aesthetics: With a sleek design, the app incorporates subtle animations, transitions, and hover effects to enhance the user experience. The interface uses modern CSS for styling, featuring smooth animations, interactive button designs, and easy-to-read fonts.
+Key Features:
+Responsive Design: Adapts seamlessly across devices, from desktop to mobile.
+Interactive Calendar Grid: Clickable dates allow users to add, view, and edit events.
+Today's Date Highlighted: The current date is prominently displayed for quick reference.
+Event Modal: A user-friendly modal for creating, editing, and viewing event details like title, description, and time.
+Event Controls: Simple navigation buttons to switch between months and view events.
+Event Notifications: Alerts for upcoming events to ensure nothing is missed.
+Modern Aesthetics: Smooth animations, hover effects, and a polished interface for a delightful user experience.
 
 Tech Stack:
 Frontend: React.js for building the dynamic user interface.
@@ -23,3 +17,10 @@ Deployment: Hosted on Netlify for fast and reliable performance, with automatic 
 
 
 npm start to run 
+
+
+link to website
+
+https://gilded-florentine-be6b30.netlify.app/
+
+
