@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+.app {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 8px;
+}
+
+.day-card {
+  padding: 16px;
+  background: #e0e0e0;
+  border-radius: 4px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.day-card.empty {
+  background: transparent;
+  cursor: default;
+}
+
+.day-card:hover {
+  background: #b0bec5;
+}
+
+button {
+  margin: 0 8px;
+}
